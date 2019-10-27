@@ -1,6 +1,5 @@
 # BAIDU_ASR_ESP8266_RTOS_SDK #
 ![login](https://github.com/achinwoo/BAIDU_ASR_ESP8266/blob/master/documents/8266.jpg)
-----------
 
 ESP8266 SDK based on FreeRTOS.
    
