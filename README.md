@@ -86,6 +86,7 @@ VAD 开状态下，按键操作，AT 操作录音指令是禁止的，这一点�
 13，恢复初始化设备指令[AT+=FORMAT=1]后，所有信息恢复初始化状态。
 
 14，技术支持指令[AT_LIC=XXXXXXXX]，获取技术支持的注册信息。
+
 QQ 14510690
 
 ESP8266 SDK based on FreeRTOS.
