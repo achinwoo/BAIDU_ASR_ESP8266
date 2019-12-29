@@ -2,7 +2,8 @@
 
 ![image](https://github.com/achinwoo/BAIDU_ASR_ESP8266/blob/master/documents/8266.jpg)
 
-ESP8266 百度云语音识别开发板 SPEECH-ESP 版本说明书
+**ESP8266 百度云语音识别开发板 SPEECH-ESP 版本说明书**
+
 百度云开放了语音识别开发，并且永久免费的，有成熟的 REST API 教学文档，适合爱好
 者研究，感兴趣者，大家可以到百度学习一下。
 我们是基于了乐鑫 ESP8266 的 RTOS SDK2.0 版本的移植。
