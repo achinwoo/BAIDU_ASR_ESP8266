@@ -144,4 +144,13 @@ boot_v1.6_0000.bin, downloads to flash 0x00000
 
 user1.4096.new.4.bin, downloads to flash 0x1000
 
+esp_init_data_default_3fc000.bin, downloads to flash 0x3FC000
+
 blank.bin, downloads to flash 0x3FE000
+
+Unicode_200000.bin , downloads to flash 0x200000
+
+gbk_220000.bin, downloads to flash 0x220000
+
+
+
